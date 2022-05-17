@@ -8,7 +8,7 @@
   - [Roadmap](#roadmap)
 
 ## Screenshots
-
+![Hooked](scr/AutoHotkeyU64_mFkLu7ZRpI.png) | ![Compression](scr/AutoHotkeyU64_cWsUepWe7W.png) | ![Tension](scr/AutoHotkeyU64_fVBxigvQgz.png)
 
 ## How do I use this?
 The `Development_length.exe` file from the base directory is a standalone file, meaning it can be downloaded without any other accompanying files/folders to run the program.
