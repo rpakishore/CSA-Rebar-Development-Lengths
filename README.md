@@ -1,6 +1,7 @@
-# CSA-Rebar-Development-Lengths
+# [Abandoned] CSA-Rebar-Development-Lengths
+## Checkout [rpakishore/Stru-Development-length](https://github.com/rpakishore/Stru-Development-length) for a currently maintained web version of this app
 
-- [CSA-Rebar-Development-Lengths](#csa-rebar-development-lengths)
+- [[A]CSA-Rebar-Development-Lengths](#acsa-rebar-development-lengths)
   - [Screenshots](#screenshots)
   - [How do I use this?](#how-do-i-use-this)
   - [Limitations](#limitations)
